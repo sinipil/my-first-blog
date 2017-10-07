@@ -25,7 +25,7 @@ SECRET_KEY = 'i6u8@@^0+-5k1x2a(wl%sau9a3_xcm-wz(si)kd(6(cf1ga=pg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<sinipil>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sinipil.pythonanywhere.com']
 
 
 # Application definition
